@@ -1,4 +1,4 @@
-# customer_behavior_analysis
+# Customer_behavior_analysis
 # Customer Behavior Dashboard
 
 ## 📌 Overview
